@@ -997,4 +997,8 @@ earthstar
 hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa
 bolete
 ear, spike, capitulum
-toilet tissue, toilet paper, bathroom tissue'''.split("\n")
+toilet tissue, toilet paper, bathroom tissue
+jin ramen
+shin ramen
+neoguri
+zapagetti'''.split("\n")
